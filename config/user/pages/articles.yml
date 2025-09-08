@@ -1,0 +1,144 @@
+title: 收藏文章
+subtitle: 收藏师傅们的博客，网络安全相关文章
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: articles
+
+categories:
+  - name: 收藏博客
+    icon: fas fa-pen
+    sites:
+      - name: leavesongs
+        icon: fas fa-blog
+        description: p神
+        url: "https://www.leavesongs.com/"
+      - name: tr0y
+        icon: fas fa-blog
+        description: 对pythonjail研究很透彻
+        url: "https://www.tr0y.wang/"
+      - name: x1r0z
+        icon: fas fa-blog
+        description: web大神
+        url: "https://exp10it.io/"
+      - name: x1r0z的书签
+        icon: fas fa-bookmark
+        description: 佬之前分享的书签，自己挂这方便查阅
+        url: "https://enoch.host/x1r0z" 
+      - name: drun1baby
+        icon: fas fa-blog
+        description: drun1baby的博客
+        url: "https://drun1baby.top/"
+      - name: Freed0m
+        icon: fas fa-blog
+        description: Freed0m的博客
+        url: "https://xidaner.github.io/Freed0m/"
+      - name: GoodLunatic
+        icon: fas fa-blog
+        description: 强悍的MISC手
+        url: "https://goodlunatic.github.io/"
+      - name: bi0s
+        icon: fas fa-blog
+        description: bi0s
+        url: "https://blog.bi0s.in/"
+      - name: zoiltin
+        icon: fas fa-blog
+        description: zoiltin佬
+        url: "https://zoiltin.github.io/"
+
+  - name: 书籍类
+    icon: fas fa-book
+    sites:
+      - name: 动手学深度学习
+        icon: fas fa-book
+        description: 深度学习入门
+        url: "https://zh-v2.d2l.ai/"
+      - name: WebShell Bypass Guide
+        icon: fas fa-book
+        description: 从零学习WebShell免杀手册系列
+        url: "https://github.com/AabyssZG/WebShell-Bypass-Guide"
+      - name: HackTricks
+        icon: fas fa-book
+        description: 黑客技巧手册
+        url: "https://book.hacktricks.wiki/zh/index.html"
+      - name: Rust圣经
+        icon: fas fa-book
+        description: Rust圣经，看完即大成
+        url: "https://course.rs/about-book.html"
+      - name: 算法随想录
+        icon: fas fa-book
+        description: 算法相关
+        url: "https://www.programmercarl.com/"
+      - name: hello算法
+        icon: fas fa-book
+        description: 算法入门必备
+        url: "https://www.hello-algo.com/"
+      - name: JavaSec
+        icon: fas fa-book
+        description: Java安全
+        url: "https://www.javasec.org/"
+      - name: cheat-sheets
+        icon: fas fa-book
+        description: 应用安全速查表
+        url: "https://0xn3va.gitbook.io/cheat-sheets"
+      - name: CTF All-in-One
+        icon: fas fa-book
+        description: CTF入门
+        url: "https://firmianay.gitbook.io/ctf-all-in-one"
+      - name: CyberAngel
+        icon: fas fa-book
+        description: CyberAngel的公开知识库,主要是pwn和逆向
+        url: "https://www.yuque.com/cyberangel/rg9gdm"
+      - name: Beyond XSS
+        icon: fas fa-globe
+        description: XSS相关
+        url: "https://aszx87410.github.io/beyond-xss/"
+      - name: PayloadsAllTheThings
+        icon: fas fa-globe
+        description: PayloadsAllTheThings
+        url: "https://swisskyrepo.github.io/PayloadsAllTheThings/"
+      - name: GTFObins
+        icon: fas fa-globe
+        description: linux提权
+        url: "https://gtfobins.github.io/"
+      - name: Solidity Expert
+        icon: fas fa-book
+        description: 智能合约安全
+        url: "https://dukedaily.github.io/solidity-expert/cn/"
+
+  - name: 安全研究文章
+    icon: fas fa-globe
+    sites:
+      - name: Trail of Bits
+        icon: fas fa-globe
+        description: 有点杂
+        url: "https://blog.trailofbits.com/"
+      - name: Synacktiv
+        icon: fas fa-globe
+        description: Synacktiv Publications
+        url: "https://www.synacktiv.com/publications"
+      - name: PortSwigger
+        icon: fas fa-globe
+        description: PortSwigger Research
+        url: "https://portswigger.net/research/articles"
+      - name: Check Point
+        icon: fas fa-globe
+        description: Check Point Research
+        url: "https://research.checkpoint.com/"
+      - name: Assetnote
+        icon: fas fa-globe
+        description: Assetnote Research
+        url: "https://www.assetnote.io/resources/research"
+      - name: Akamai
+        icon: fas fa-globe
+        description: Akamai Security Research
+        url: "https://www.akamai.com/blog/security-research"
+      - name: Seebug
+        icon: fas fa-globe
+        description: Seebug Paper
+        url: "https://paper.seebug.org/"
+      - name: SonarSource
+        icon: fas fa-globe
+        description: SonarSource Blog
+        url: "https://www.sonarsource.com/blog/"
+
+

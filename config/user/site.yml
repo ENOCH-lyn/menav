@@ -1,0 +1,29 @@
+title: ENOCH导航站
+description: ENOCH的个人导航站点，主要是为了方便自己用
+author: ENOCH
+favicon: favicon.ico
+logo_text: 导航站
+
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+    
+profile:
+  title: Hello,
+  subtitle: 欢迎来到我的导航站，这里收集了一些我常用的网站和工具。
+  description: 导航菜单
+
+social:
+  - name: GitHub
+    url: https://github.com/ENOCH-lyn
+    icon: fab fa-github
