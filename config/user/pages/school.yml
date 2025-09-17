@@ -1,0 +1,23 @@
+title: 学校
+subtitle: 学校的一些乱七八糟的网站
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: articles
+
+categories:
+  - name: 学校网站
+    icon: fas fa-pen
+    sites:
+      - name: ehall教务系统
+        icon: fas fa-user-graduate
+        description: 教务系统
+        url: "https://ehall.ynu.edu.cn/new/index.html"
+      - name: 奖贷补助查询
+        icon: fas fa-money-bill
+        description: 财务系统
+        url: "https://fm-cwc.ynu.edu.cn/vue/#/"
+      - name: MOOC
+        icon: fas fa-chalkboard-teacher
+        description: 慕课系统
+        url: "https://www.icourse163.org/"
+        

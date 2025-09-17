@@ -1,5 +1,5 @@
 title: ENOCH导航站
-description: ENOCH的个人导航站点，主要是为了方便自己用
+description: ENOCH的个人导航站
 author: ENOCH
 favicon: favicon.ico
 logo_text: 导航站
@@ -21,7 +21,7 @@ fonts:
 profile:
   title: Hello,
   subtitle: 欢迎来到我的导航站，这里收集了一些我常用的网站和工具。
-  description: 导航菜单
+  description: 主要是自己用，但是里面不少东西也挺有用的
 
 social:
   - name: GitHub

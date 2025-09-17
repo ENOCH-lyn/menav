@@ -40,6 +40,10 @@ categories:
         url: https://ainews.enoch.host/
         icon: fas fa-robot
         description: 练手的ai新闻聚合项目（放弃了）
+      - name: 旧版导航站
+        url: https://oldhome.enoch.host/
+        icon: fas fa-compass
+        description: 不好用，换成了现在的这个  
   - name: CTF在线工具
     icon: fas fa-wrench
     sites:
@@ -83,6 +87,10 @@ categories:
         url: https://crackstation.net/
         icon: fas fa-key
         description: hash破解工具
+      - name: CTF Tools下载
+        url: https://cdisk.imxbt.cn/s/jRfM?path=%2F
+        icon: fas fa-download
+        description: 各种CTF常用工具合集
   - name: 实用工具
     icon: fas fa-cogs
     sites:
@@ -106,6 +114,10 @@ categories:
         url: https://github.com/ruanyf/weekly/
         icon: fas fa-newspaper
         description: 科技爱好者周刊，issue里面有很多工具
+      - name: LINUX DD
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: 技术社区
   - name: 网络安全社区
     icon: fas fa-shield-alt
     sites:

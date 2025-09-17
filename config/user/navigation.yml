@@ -8,3 +8,6 @@
 - name: 收藏文章
   icon: fas fa-book
   id: articles
+- name: 学校
+  icon: fas fa-university
+  id: school
