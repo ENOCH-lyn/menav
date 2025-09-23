@@ -24,10 +24,6 @@ categories:
         url: https://gotify.enoch.host/
         icon: fas fa-bell
         description: 消息推送服务
-      - name: 在线剪切板
-        url: https://note.enoch.host/
-        icon: fas fa-clipboard
-        description: 在线的剪切板工具
       - name: CloudEver 官网
         url: https://cloudever.top/
         icon: fas fa-users
@@ -40,10 +36,6 @@ categories:
         url: https://ainews.enoch.host/
         icon: fas fa-robot
         description: 练手的ai新闻聚合项目（放弃了）
-      - name: 旧版导航站
-        url: https://oldhome.enoch.host/
-        icon: fas fa-compass
-        description: 不好用，换成了现在的这个  
   - name: CTF在线工具
     icon: fas fa-wrench
     sites:
