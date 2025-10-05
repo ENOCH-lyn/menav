@@ -12,12 +12,19 @@ categories:
         icon: fas fa-user-graduate
         description: 教务系统
         url: "https://ehall.ynu.edu.cn/new/index.html"
-      - name: 奖贷补助查询
+      - name: 财务系统
         icon: fas fa-money-bill
         description: 财务系统
-        url: "https://fm-cwc.ynu.edu.cn/vue/#/"
+        url: "https://www.cwc.ynu.edu.cn/index.htm"
       - name: MOOC
         icon: fas fa-chalkboard-teacher
-        description: 慕课系统
+        description: 慕课
         url: "https://www.icourse163.org/"
-        
+      - name: 超星学习通
+        icon: fas fa-book
+        description: 学习通
+        url: "https://i.chaoxing.com/"  
+      - name: 知到智慧树
+        icon: fas fa-graduation-cap
+        description: 知到智慧树
+        url: "https://onlineweb.zhihuishu.com/"  

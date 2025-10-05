@@ -176,3 +176,7 @@ categories:
         url: https://www.namesilo.com/
         icon: fas fa-globe
         description: 域名注册商
+      - name: DigitalOcean
+        url: https://cloud.digitalocean.com/
+        icon: fas fa-cloud
+        description: Github学生包会送200美金
