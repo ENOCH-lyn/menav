@@ -110,6 +110,33 @@ categories:
         url: https://linux.do/
         icon: fab fa-linux
         description: 技术社区
+      - name: CodeInWord
+        icon: fas fa-code  
+        url: https://www.codeinword.com
+        description: 简单好用的代码高亮工具（可以用于Word）
+      - name: Remix
+        icon: fas fa-ethereum  
+        url: https://remix.ethereum.org/
+        description: 以太坊智能合约在线编译与调试环境  
+  - name: AI
+    icon: fas fa-robot
+    sites:
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-robot
+        description: GPT！
+      - name: Google Gemini 2.5 Pro
+        url: https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-pro
+        icon: fas fa-robot
+        description: Google Gemini 2.5 Pro  
+      - name: Grok
+        url: https://grok.com/
+        icon: fas fa-robot
+        description: Grok
+      - name: deepseek元宝
+        url: https://yuanbao.tencent.com/
+        icon: fas fa-robot
+        description: 腾讯元宝版deepseek
   - name: 网络安全社区
     icon: fas fa-shield-alt
     sites:
