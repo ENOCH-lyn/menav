@@ -140,5 +140,9 @@ categories:
         icon: fas fa-globe
         description: SonarSource Blog
         url: "https://www.sonarsource.com/blog/"
+      - name: Elttam
+        icon: fas fa-globe
+        description: Elttam Blog
+        url: "https://www.elttam.com/blog/"
 
 
