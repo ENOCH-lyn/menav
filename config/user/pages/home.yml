@@ -12,30 +12,6 @@ categories:
         url: https://enoch.host/
         icon: fas fa-blog
         description: 我的个人博客
-      - name: 个人网盘
-        url: http://ms.enochdesigns.top:40033
-        icon: fas fa-hdd
-        description: 临时文件中转站
-      - name: 音乐
-        url: https://music.enoch.host/
-        icon: fas fa-music
-        description: 收藏的音乐
-      - name: Gotify 推送
-        url: https://gotify.enoch.host/
-        icon: fas fa-bell
-        description: 消息推送服务
-      - name: CloudEver 官网
-        url: https://cloudever.top/
-        icon: fas fa-users
-        description: CloudEver 校队网站
-      - name: 前端模板收藏
-        url: https://web.enoch.host/
-        icon: fas fa-folder-open
-        description: 收藏的前端模板
-      - name: ainews
-        url: https://ainews.enoch.host/
-        icon: fas fa-robot
-        description: 练手的ai新闻聚合项目（放弃了）
   - name: CTF在线工具
     icon: fas fa-wrench
     sites:

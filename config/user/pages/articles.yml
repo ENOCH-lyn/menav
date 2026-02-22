@@ -44,6 +44,10 @@ categories:
         icon: fas fa-blog
         description: zoiltin佬
         url: "https://zoiltin.github.io/"
+      - name: 3gstudent
+        icon: fas fa-blog
+        description: 好多内容
+        url: "https://3gstudent.github.io/"  
 
   - name: 书籍类
     icon: fas fa-book
