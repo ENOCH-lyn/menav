@@ -108,6 +108,22 @@ categories:
         icon: fas fa-book
         description: 智能合约安全
         url: "https://dukedaily.github.io/solidity-expert/cn/"
+      - name: 渗透测试手册
+        icon: fas fa-book
+        description: 渗透测试手册
+        url: "https://www.heresecurity.wiki/"  
+      - name: 日语语法指南
+        icon: fas fa-book
+        description: 日语语法学习
+        url: "https://res.wokanxing.info/jpgramma/index.html"  
+      - name: Learn Claude Code
+        icon: fas fa-book
+        description: 从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制
+        url: "https://learn.shareai.run/zh/"  
+      - name: hello-agents
+        icon: fas fa-book
+        description: 智能体构建
+        url: "https://datawhalechina.github.io/hello-agents/"  
 
   - name: 安全研究文章
     icon: fas fa-globe
